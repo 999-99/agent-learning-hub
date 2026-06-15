@@ -2,7 +2,7 @@
   "name": "agent-learning-hub",
   "version": "1.0.0",
   "description": "AI Agent 智能体从入门到精通 - 完整学习路线与实战指南",
-  "homepage": "https://YOUR_USERNAME.github.io/agent-learning-hub/",
+  "homepage": "https://999-99.github.io/agent-learning-hub/",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",

@@ -109,7 +109,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/YOUR_USERNAME/agent-learning-hub' }
+      { icon: 'github', link: 'https://github.com/999-99/agent-learning-hub' }
     ],
 
     search: {
@@ -141,7 +141,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/YOUR_USERNAME/agent-learning-hub/edit/main/docs/:path',
+      pattern: 'https://github.com/999-99/agent-learning-hub/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页面'
     },
 

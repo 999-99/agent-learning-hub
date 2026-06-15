@@ -1,9 +1,10 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "Agent Learning",
+  title: "Agent Learning Hub",
   description: "AI Agent 智能体从入门到精通 - 完整学习路线与实战指南",
   lang: 'zh-CN',
+  base: '/agent-learning-hub/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -108,7 +109,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/YOUR_USERNAME/agent-learning-hub' }
     ],
 
     search: {
@@ -140,7 +141,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/YOUR_USERNAME/agent-learning-hub/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页面'
     },
 
